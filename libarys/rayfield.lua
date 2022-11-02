@@ -10,7 +10,7 @@ iRay  | Programming
 
 
 
-local Release = "V1"
+local Release = "1.0.0"
 local NotificationDuration = 6.5
 local ConfigurationFolder = "The Hub by Jkgamer1_0#1076"
 local ConfigurationExtension = ".rfld"
@@ -26,7 +26,7 @@ local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 
-local Rayfield = game:GetObjects("rbxassetid://10804731440")[1]
+local Rayfield = game:GetObjects("rbxassetid://11450844853")[1]
 
 
 if gethui then
