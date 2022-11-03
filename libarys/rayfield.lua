@@ -10,9 +10,9 @@ iRay  | Programming
 
 
 
-local Release = "1.0.0"
+local Release = "Beta 5"
 local NotificationDuration = 6.5
-local ConfigurationFolder = "The Hub by Jkgamer1_0#1076"
+local ConfigurationFolder = "Rayfield Interface Suite"
 local ConfigurationExtension = ".rfld"
 
 
